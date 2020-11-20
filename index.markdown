@@ -4,3 +4,6 @@
 
 layout: default
 ---
+Hello!
+
+This is my first attempt at a blog so going to put down some thoughts possibly about programming and/or other things.
